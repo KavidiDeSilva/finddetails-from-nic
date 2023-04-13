@@ -1,7 +1,7 @@
 # Find Birthday, Age, Gender from NIC number
 This is a simple web application that allows Sri Lankan citizens to find their age, birthday, and gender from their NIC (National Identity Card) number. The application supports both the old and new formats of the NIC number.
 
-![image](https://user-images.githubusercontent.com/40288071/231841983-f5a59617-fa66-4ecb-b9c0-6301a20114ac.png)
+![image](https://user-images.githubusercontent.com/40288071/231855453-e0c8371e-ba39-422c-9c8c-576365ba3ca8.png)
 
 ## How to use
 - Open the application on your browser.
